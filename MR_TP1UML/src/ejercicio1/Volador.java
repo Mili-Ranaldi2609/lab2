@@ -1,2 +1,5 @@
-package ejercicio1;public interface Volador {
+package ejercicio1;
+
+public interface Volador {
+    void volar();
 }
